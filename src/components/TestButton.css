@@ -1,0 +1,17 @@
+.card-btn button{
+    margin-top: 4vh;
+    padding: 1vh 8vw;
+    cursor: pointer;
+    background-color:#201E20;
+    color:#DDC3A5;
+    border: none;
+    font-size: 14px;
+}
+
+.card-btn button:hover{
+    background-color: #DDC3A5;
+    color:#1C1C1BFF;
+    font-size: 14px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    transition: box-shadow 50ms ease-in-out;
+}
